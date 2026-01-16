@@ -1,2 +1,3 @@
-# Game
-Building something! Let's hope it's fun
+# ZER0DAY
+
+A post-apocalyptic world
