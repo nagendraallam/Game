@@ -1,0 +1,28 @@
+# --- .NET / C# Specifics ---
+# These folders contain your compiled game (the .exe and .dll files)
+bin/
+obj/
+
+# --- IDE Specifics ---
+# Visual Studio local settings and cache
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code settings (optional: keep if you want shared settings)
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# --- OS Specifics ---
+# Mac/Linux junk files
+.DS_Store
+thumbs.db
+
+# --- Game Assets (Optional) ---
+# If you use large temporary files or log files during dev
+*.log
+
+
